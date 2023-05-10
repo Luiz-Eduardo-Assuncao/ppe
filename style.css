@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.inicio, .fim, .dupla{
+    width: 95%;
+    height: 15%;
+    margin: 2rem auto;
+    display: flex;
+    justify-content: space-between;
+}
+.um{
+    border: 4px solid black;
+    width: 80px;
+    padding: 115px;
+    background-color: brown;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 22px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    top: 19px;
+    left: 19px;
+}
+
+
+.a:hover{
+    background-color: indianred;
+    transition: .3s linear;
+    cursor: pointer;
+}
+
+.dois{
+    border: 4px solid black;
+    width: 30%;
+    padding: 2.3rem;
+    background-color: brown;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 22px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    top:18px ;
+    left: 185px;
+
+}
+
+
+.tres{
+    border: 4px solid black;
+    width: 117px;
+    padding: 97px;
+    background-color: brown;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 22px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    top: 13px;
+    left: 333px;
+
+}
+
+.quatro{
+    border: 4px solid black;
+    width: 180px;
+    padding: 62px;
+    background-color: brown;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 22px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    top: 131px;
+    left: 19px;
+
+}
+
+.cinco{
+    border: 4px solid black;
+    width: 30%;
+    padding: 2.3rem;
+    background-color: brown;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 22px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.seis{
+    border: 4px solid black;
+    width: 30%;
+    padding: 2.3rem;
+    background-color: brown;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 22px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sete{
+    border: 4px solid black;
+    width: 30%;
+    padding: 2.3rem;
+    background-color: brown;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 22px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+.oito{
+    border: 4px solid black;
+    width: 30%;
+    padding: 2.3rem;
+    background-color: brown;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 22px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+.nove{
+    border: 4px solid black;
+    width: 30%;
+    padding: 2.3rem;
+    background-color: brown;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 22px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+.dez{border: 4px solid black;
+    width: 30%;
+    padding: 2.3rem;
+    background-color: brown;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 22px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+}
